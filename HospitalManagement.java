@@ -1,4 +1,4 @@
-#OOP Project code
+#OOP Mini-Project code
 
 import java.io.*;
 import java.util.*;
